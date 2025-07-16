@@ -27,8 +27,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [Portfolio Website](https://yourwebsite.com) *(optional link)*
-- 📧 patrick@example.com *(replace with your email)*
-- 🌐 [Facebook](https://facebook.com/yourprofile) *(or other socials)*
+- 💼 https://www.behance.net/patrickcueto
+- 📧 cuetopatrick1999@gmail.com
+
 
 ---
